@@ -620,7 +620,7 @@ ul.menus li a {
 ul.menus li a:hover,
 ul.menus li.active a,
 ul.menus li.open a { 
-  background-color: #457b9d;
+  background-color: #f2af59;
   color: #ffffff;
 }
 ul.menus li.has-child a:hover:after,
@@ -962,7 +962,7 @@ ul.menus li.has-child ul.child li a:hover:after {
   border-radius: 50%;
 }
 .facility-item .counter-number h2.counter {
-  color: #ffffff;
+  color: #000000;
   position: absolute;
   background-color: rgba(255, 255, 255, 0.3);
   height: 120px;
@@ -974,11 +974,11 @@ ul.menus li.has-child ul.child li a:hover:after {
   transform: translate(-50%, -50%);
 }
 .facility-item h4.title {
-  color: #ffffff;
+  color: #000000;
   margin: 15px 10px;
 }
 .facility-item p {
-  color: #ffffff;
+  color: #000000;
 }
 /*-----------------------------------------------------------------------------------*/
 /*  3e.  OUR TEACHER SECTION
